@@ -38,6 +38,13 @@ Please connect the hardware as the following diagram:
 
 (Diagram 1)
 
+### Prepare the Micro SD Card
+
+1. Format the Micro SD card to FAT32 format.
+2. Download the Bad Apple MP3 and rename it to "3_BadApple.mp3".
+3. Put "3_BadApple.mp3" in the root directory of the Micro SD card.
+4. Insert the Micro SD card into the DFPlayer Mini.
+
 ### Dependencies
 
 To compile the code, you should install the following libraries in Arduino IDE:
