@@ -53,15 +53,15 @@ Libraries:
 
 After connecting the UNO R4 to your computer, select the correct board and port in Arduino IDE, then click "Upload" button to upload the code to your UNO R4. When finished, Bad Apple will be played on your UNO R4.
 
-## 🆘 How to Get Help
-
-No way.
-
 ## 🎥 Play My Own Video
 
 If you want to convert your own Bad Apple or even other video to the format that this project can play, you can follow the steps below:
 
 (More details will be added later)
+
+## 🆘 How to Get Help
+
+No support provided currently.
 
 ## 📃 License
 
