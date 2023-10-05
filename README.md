@@ -8,7 +8,7 @@ If it exists, you can play Bad Apple on it.
 ```
 the answer is **YES**.
 
-## About the Project
+## 🧐 About the Project
 
 One year ago, BOGO has sucessfully played Bad Apple on an Arduino UNO R3 using an 8x8 LED matrix. Now, with the recent release of the Arduino UNO R4, which features a built-in 12x8 LED matrix, we have an exciting opportunity to take playing animation on LED matrix to the next level. So why not we also play Bad Apple on it?
 
@@ -16,7 +16,7 @@ One year ago, BOGO has sucessfully played Bad Apple on an Arduino UNO R3 using a
 
 (A YouTube link of the demostation video.)
 
-## Getting Started
+## 🏁 Getting Started
 
 Before you embark on the exciting journey of playing Bad Apple on your Arduino UNO R4, make sure you have the necessary hardware components ready:
 
@@ -53,25 +53,25 @@ Libraries:
 
 After connecting the UNO R4 to your computer, select the correct board and port in Arduino IDE, then click "Upload" button to upload the code to your UNO R4. When finished, Bad Apple will be played on your UNO R4.
 
-## How to Get Help
+## 🆘 How to Get Help
 
 No way.
 
-## Play My Own Video
+## 🎥 Play My Own Video
 
 If you want to convert your own Bad Apple or even other video to the format that this project can play, you can follow the steps below:
 
 (More details will be added later)
 
-## License
+## 📃 License
 
 This project is licensed under the MIT License - see [LICENSE.md](LICENSE.md) file for details. Feel free to fork and modify the code.
 
-## Authors
+## ✍️ Authors
 
 * **[BOGO](https://youtu.be/dQw4w9WgXcQ)**
 
-## Acknowledgments
+## 🎉 Acknowledgments
 
 The people who created Bad Apple.
 
