@@ -1,12 +1,13 @@
 # Bad_Apple_on_UNO_R4
 
-Can Arduino UNO R4 play Bad Apple?
+<p style="text-align: center;">Can Arduino UNO R4 play Bad Apple?</p>
+<p style="text-align: center;">According to <strong><a href="https://www.urbandictionary.com/define.php?term=Rule%2086">Rule 86</a></strong>:</p>
 
-According to **[Rule 86](https://www.urbandictionary.com/define.php?term=Rule%2086)**: 
 ```
 If it exists, you can play Bad Apple on it.
 ```
-the answer is **YES**.
+
+<p style="text-align: center;">the answer is <strong>YES</strong>.</p>
 
 ## 🧐 About the Project
 
@@ -20,14 +21,14 @@ One year ago, BOGO has sucessfully played Bad Apple on an Arduino UNO R3 using a
 
 Before you embark on the exciting journey of playing Bad Apple on your Arduino UNO R4, make sure you have the necessary hardware components ready:
 
-* Arduino UNO R4 WiFi
-* DFPlayer Mini
-* Micro SD card
-* Speaker
-* Breadboard
-* Computer with Arduino IDE installed
-* USB cable for code uploading
-* Jumper wires (a few of them)
+-   Arduino UNO R4 WiFi
+-   DFPlayer Mini
+-   Micro SD card
+-   Speaker
+-   Breadboard
+-   Computer with Arduino IDE installed
+-   USB cable for code uploading
+-   Jumper wires (a few of them)
 
 The code can be compiled and uploaded to Arduino UNO R4 directly by using Arduino IDE. If you're feeling adventurous and want to explore further possibilities, refer to the "Play My Own Video" section below to learn how you can customize and play your own videos. Get ready to unleash the full potential of your Arduino UNO R4 and immerse yourself in the captivating world of Bad Apple!
 
@@ -43,11 +44,11 @@ To compile the code, you should install the following libraries in Arduino IDE:
 
 Boards:
 
-* **Arduino UNO R4 Boards** by Arduino
+-   **Arduino UNO R4 Boards** by Arduino
 
 Libraries:
 
-* **DFPlayerMini_Fast** by PowerBroker2
+-   **DFPlayerMini_Fast** by PowerBroker2
 
 ### Uploading Code
 
@@ -69,9 +70,8 @@ This project is licensed under the MIT License - see [LICENSE.md](LICENSE.md) fi
 
 ## ✍️ Authors
 
-* **[BOGO](https://youtu.be/dQw4w9WgXcQ)**
+-   **[BOGO](https://youtu.be/dQw4w9WgXcQ)**
 
 ## 🎉 Acknowledgments
 
 The people who created Bad Apple.
-
