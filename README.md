@@ -1,13 +1,13 @@
 # Bad_Apple_on_UNO_R4
 
-<p style="text-align: center;">Can Arduino UNO R4 play Bad Apple?</p>
-<p style="text-align: center;">According to <strong><a href="https://www.urbandictionary.com/define.php?term=Rule%2086">Rule 86</a></strong>:</p>
+<p align="center">Can Arduino UNO R4 play Bad Apple?</p>
+<p align="center">According to <strong><a href="https://www.urbandictionary.com/define.php?term=Rule%2086">Rule 86</a></strong>:</p>
 
 ```
 If it exists, you can play Bad Apple on it.
 ```
 
-<p style="text-align: center;">the answer is <strong>YES</strong>.</p>
+<p align="center">the answer is <strong>YES</strong>.</p>
 
 ## 🧐 About the Project
 
