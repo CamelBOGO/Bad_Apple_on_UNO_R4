@@ -15,7 +15,7 @@ One year ago, BOGO has sucessfully played Bad Apple on an Arduino UNO R3 using a
 
 ### Demo
 
-(A YouTube link of the demostation video.)
+YouTube: [Link](https://youtu.be/vlPAYCViuuo "Bad Apple on Arduino UNO R4")
 
 ## 🏁 Getting Started
 
