@@ -1,4 +1,4 @@
-# Bad Apple on UNO R4
+<h1 align="center">Bad Apple on UNO R4</h1>
 
 <p align="center">Can Arduino UNO R4 play Bad Apple?</p>
 <p align="center">According to <a href="https://www.urbandictionary.com/define.php?term=Rule%2086"><strong>Rule 86</strong></a>:</p>
