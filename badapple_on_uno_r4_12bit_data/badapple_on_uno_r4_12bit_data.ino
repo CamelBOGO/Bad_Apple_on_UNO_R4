@@ -11,7 +11,7 @@ DFPlayerMini_Fast myDFPlayer;
 
 // Video frame rate = 30fps.
 uint32_t period = 33333;  // us
-uint32_t lastTime = 0;    // us
+uint64_t lastTime = 0;    // us
 
 // Create an instance of the ArduinoLEDMatrix class
 ArduinoLEDMatrix matrix;

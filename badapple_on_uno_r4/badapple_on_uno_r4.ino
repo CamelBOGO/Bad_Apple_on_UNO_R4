@@ -13,7 +13,7 @@ DFPlayerMini_Fast myDFPlayer;
 
 // Video frame rate = 30fps.
 uint32_t period = 33333;  // us
-uint32_t lastTime = 0;    // us
+uint64_t lastTime = 0;    // us
 
 void setup() {
     // Initialize the LED matrix.
@@ -43,7 +43,7 @@ void loop() {
     if (micros() - lastTime > period) {
         lastTime = micros();
 
-        // Get the frame data from the program memory, store it in the wordDatas
+        // Get the frame data from the program memory, store it in the frameData
         for (byte i = 0; i < 3; i++) {
             frameData[i] = pgm_read_dword_near(&badapple[frameCounter][i]);
         }
