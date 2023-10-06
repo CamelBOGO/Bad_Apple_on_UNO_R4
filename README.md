@@ -45,6 +45,10 @@ Please connect the hardware as the following diagram:
 3. Put "3_BadApple.mp3" in the root directory of the Micro SD card.
 4. Insert the Micro SD card into the DFPlayer Mini.
 
+### Defferent of 2 Folders
+
+There are 2 Arduino project folders: "badapple_on_uno_r4" and "badapple_on_uno_r4_12bit_data". For general users, please use the "badapple_on_uno_r4". "badapple_on_uno_r4_12bit_data" stores the data of the video by using uint16_t array, and each element contains 12 bits of data, which is a row of the data of a single frame. However, this method wastes 4 bits of data for each element, so it is not recommended.
+
 ### Dependencies
 
 To compile the code, you should install the following libraries in Arduino IDE:
