@@ -31,7 +31,7 @@ void setup() {
     // Serial.println(F("DFPlayer OK."));
 
     // Initial settings of the DFPlayer Mini.
-    myDFPlayer.volume(22);  // Set volume value. From 0 to 30
+    myDFPlayer.volume(20);  // Set volume value. From 0 to 30
     myDFPlayer.play(3);     // Play the third mp3
 }
 
